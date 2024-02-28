@@ -1,5 +1,8 @@
 <H1> C# OOP Project </H1>
 <br>
+<p>Project in C# connecting several Windows Forms in which each one has different functions.
+
+Within these forms, there is a Main Design which displays all the available options to the user:</p>
 <H2>Generated Numbers:</H2>
 <p>This first option displays two lotteries. The user can choose between either of the two, and a new Form will be generated where they can play the lottery by generating random numbers and saving them in a text file, which, if the user wishes, can be read.</p>
 <br>
